@@ -1,6 +1,6 @@
 ![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQEq2Gq9Aciuwg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1704601603753?e=1736985600&v=beta&t=R_Na-YzVswT8Qd_L2tohKsO8ErglkZIaoTvs4jP3QhY)
 <h1 align="center">Hi 👋, I'm Om Chauhan</h1>
-<h3 align="center">A junior developer</h3>
+<h3 align="center">A junior web developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omchauhan22&label=Profile%20views&color=0e75b6&style=flat" alt="omchauhan22" /> </p>
 
